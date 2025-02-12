@@ -133,3 +133,14 @@ psql --username=freecodecamp --dbname=postgres
 psql --username=freecodecamp --dbname=postgres
 psql --username=freecodecamp --dbname=postgres
 pg_dump -cC --inserts -U freecodecamp universe > universe.sql
+git push
+git push
+git add universe.sql
+git add universe.sql
+git commit -m "Add universe.sql database dump"
+git push
+git clone https://github.com/Sheep-Luis/learn-celestial-bodies-database.git
+cd path/to/your/learn-celestial-bodies-database
+cd /workspace/project/universe.sql
+__vsc_prompt_cmd_original
+git add .
